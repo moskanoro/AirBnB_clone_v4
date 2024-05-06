@@ -158,4 +158,4 @@ Mostapha BOUDAD - [Github](https://github.com/moskanoro)
 Taofeek Ajibade - [Github](https://github.com/taofeekajibade) / [Twitter](https://twitter.com/taofeekajibade)
 
 ## License
-Public Domain. No copy write protection. 
+No copyright protection. 
